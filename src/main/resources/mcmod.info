@@ -1,0 +1,15 @@
+[
+{
+  "modid": "namecollection",
+  "name": "Name Collector",
+  "description": "Sloppy mod just to collect a ton of Minecraft usernames in one place",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bugfroggy"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
